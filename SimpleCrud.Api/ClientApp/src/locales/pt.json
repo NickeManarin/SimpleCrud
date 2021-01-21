@@ -1,0 +1,44 @@
+{
+    "info": {
+        "code": "pt",
+        "lang": "Português"
+      },
+
+    "nav": {
+        "title": "Empresas"
+    },
+
+    "home": {
+        "list": {
+            "title": "Lista de Empresas",
+            "name": "Nome",
+            "name-info": "Nome da empresa",
+            "site": "Website",
+            "site-info": "Website da empresa.",
+            "quantity": "Quantidade de Funcionários",
+            "quantity-info": "Quantidade de funcionários da empresa.",
+            
+            "none": "Nenhuma empresa encontrada."
+        },
+
+        "new":{
+            "add": "Adicionar"
+        },
+
+        "edit": {
+            "title": "Editar",
+            "subtitle": "Editar empresa",
+            "save": "Salvar",
+            "cancel": "Cancelar"
+        }
+    },
+
+    "not-found": {
+        "title": "Página não encontrada...",
+        "back": "Volte para a página principal"
+    },
+
+    "footer": {
+        "language": "Idioma"
+    }
+}

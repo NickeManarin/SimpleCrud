@@ -1,0 +1,44 @@
+{
+    "info": {
+        "code": "en",
+        "lang": "English"
+    },
+
+    "nav": {
+        "title": "Companies"
+    },
+
+    "home": {
+        "list": {
+            "title": "Companies list",
+            "name": "Name",
+            "name-info": "Company's name",
+            "site": "Website",
+            "site-info": "Company's website.",
+            "quantity": "Number of workers",
+            "quantity-info": "Number of workers.",
+            
+            "none": "No company found."
+        },
+
+        "new":{
+            "add": "Add"
+        },
+
+        "edit": {
+            "title": "Edit",
+            "subtitle": "Edit company",
+            "save": "Save",
+            "cancel": "Cancel"
+        }
+    },
+
+    "not-found": {
+        "title": "Page not found...",
+        "back": "Return to the homepage"
+    },
+
+    "footer": {
+        "language": "Language"
+    }
+}
